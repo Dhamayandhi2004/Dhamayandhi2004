@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning   
 - 💻 Experienced in MERN Stack, MySQL, and Flask  
 - 💞️ I’m looking to collaborate on innovative tech projects  
-- 📫 How to reach me: dhamayandhir.22cse@kongu.edu  
+- 📫 How to reach me: kavindhamayandhi@gmail.com  
 
 - ⚡ Fun fact: I can debug faster than I code sometimes! 😆  
 
