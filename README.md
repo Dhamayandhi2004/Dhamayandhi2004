@@ -1,10 +1,10 @@
 👋 Hi, I’m @Dhamayandhi2004  
-- 👀 I’m interested in Full Stack Development & Machine Learning  
-- 🌱 I’m currently learning Advanced AI & Cloud Technologies  
+- 👀 I’m interested in Full Stack Development 
+- 🌱 I’m currently learning Machine Learning   
 - 💻 Experienced in MERN Stack, MySQL, and Flask  
 - 💞️ I’m looking to collaborate on innovative tech projects  
 - 📫 How to reach me: dhamayandhir.22cse@kongu.edu  
-- 😄 Pronouns: She/Her  
+
 - ⚡ Fun fact: I can debug faster than I code sometimes! 😆  
 
 ---
